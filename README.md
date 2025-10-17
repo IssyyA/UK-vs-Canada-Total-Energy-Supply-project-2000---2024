@@ -28,7 +28,7 @@ The dashboard provides an interactive side-by-side view of the UK and Canada, wi
 The dataset is based on the **IEA Total Energy Supply** records, covering all major energy categories and sources over a 25-year period. The data model comprises two tables capturing Combined Energy Supply and a Date Table
 
 ### Tables
-*Combined Energy Supply
+* Combined Energy Supply
 | Field | Description |
 |-------|--------------|
 | Country | United Kingdom, Canada |
