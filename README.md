@@ -5,9 +5,9 @@ This project analyzes the **total energy supply** of the **United Kingdom** and 
 
 Unlike studies focused solely on electricity generation, this analysis considers the **entire energy system** — including transport, heating, and industrial energy use. The goal is to understand how both countries’ total energy demand, fossil fuel dependency, and renewable adoption have evolved over time.
 
-The Dataset used to clean, group, and analyze the data can be found[here](https://1drv.ms/f/c/9456734e419f9736/EvYmzbazDT9Nk6G-11IlQYsB35kcVCT2bhbm5OKBsH7ulA?e=iVHt3s)
+The Dataset used to clean, group, and analyze the data can be found [here](https://1drv.ms/f/c/9456734e419f9736/EvYmzbazDT9Nk6G-11IlQYsB35kcVCT2bhbm5OKBsH7ulA?e=iVHt3s)
 
-The Power BI dashboard visualizes the data, allowing users to explore key metrics such as total production, fossil fuel share, renewable energy share and energy mix across both nations. The dashboard is available [here](https://app.powerbi.com/view?r=eyJrIjoiYjc3N2E2ODctOGE2Ni00N2E0LWFlNTItZTkwOWI5M2Y4N2NiIiwidCI6ImMwM2MxNjIyLTBmYmEtNDQwYi05YWYxLWM4MzhkY2YxZTM2NyJ9)
+The Power BI dashboard visualizes the data, allowing users to explore key metrics such as total production, fossil fuel share, renewable energy share and energy mix across both nations [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjc3N2E2ODctOGE2Ni00N2E0LWFlNTItZTkwOWI5M2Y4N2NiIiwidCI6ImMwM2MxNjIyLTBmYmEtNDQwYi05YWYxLWM4MzhkY2YxZTM2NyJ9)
 
 ---
 
@@ -31,11 +31,32 @@ The dashboard provides an interactive side-by-side view of the UK and Canada, wi
 | Country | United Kingdom, Canada |
 | Year | 2000–2024 |
 | Energy Source | Coal, Oil, Natural Gas, Nuclear, Hydro, Biofuels, Solar/Wind, etc. |
-| Production (TJ) | Total production by source (terajoules) |
+| Energy Supply (TJ) | Total production by source (terajoules) |
 | Fossil Fuel Share (%) | Combined share of coal, oil, and gas |
 | Renewables Share (%) | Combined share of hydro, solar, wind, and biofuels |
 
 The dataset is based on the **IEA Total Energy Supply** records, covering all major energy categories and sources over a 25-year period.
+## Dataset Description
+The data model comprises two tables capturing Combined Energy Supply and a Date Table
+
+### Tables
+*Combined Energy Supply
+| Field | Description |
+|-------|--------------|
+| Country | United Kingdom, Canada |
+| Year | 2000–2024 |
+| Energy Source | Coal, Oil, Natural Gas, Nuclear, Hydro, Biofuels, Solar/Wind, etc. |
+| Energy Supply (TJ) | Total production by source (terajoules) |
+* DateTable: A standard date dimension table used for time-based filtering and analysis, including Date and Year
+
+### Calculated Measures
+* Total Supply(TJ): Sum of supply for each country in Terajoules
+* Fossil Fuel : Combined sum of coal, oil, and gas supply
+* Fossil Fuel(%) : Combined sum of coal, oil, and gas supply in percentage
+* Renewables : Combined sum of hydro, solar, wind, and biofuels supply
+* Fossil Fuel (%) : Combined sum of hydro, solar, wind, and biofuels supply in percentage
+![image](https://github.com/IssyyA/Healthcare-Analysis/blob/main/Screenshot%202025-08-25%20155919.png)
+
 
 ---
 
