@@ -3,7 +3,7 @@
 ## Project Overview  
 This project analyzes the **total energy supply** of the **United Kingdom** and **Canada** from **2000 to 2024**, comparing how two advanced economies have approached decarbonization under very different geographic and resource conditions.
 
-Unlike studies focused solely on electricity generation, this analysis considers the **entire energy system** — including transport, heating, and industrial energy use. The goal is to understand how both countries’ total energy demand, fossil fuel dependency, and renewable adoption have evolved over time.
+Unlike studies focused solely on electricity generation, this analysis considers the **entire energy system** - including transport, heating, and industrial energy use. The goal is to understand how both countries’ total energy demand, fossil fuel dependency, and renewable adoption have evolved over time.
 
 The Dataset used to clean, group, and analyze the data can be found [here](https://1drv.ms/f/c/9456734e419f9736/EvYmzbazDT9Nk6G-11IlQYsB35kcVCT2bhbm5OKBsH7ulA?e=iVHt3s)
 
@@ -51,13 +51,13 @@ The dataset is based on the **IEA Total Energy Supply** records, covering all ma
 
 ## Executive Summary  
 
-### 🇬🇧 United Kingdom — *The Great Decoupling*  
+### 🇬🇧 United Kingdom - *The Great Decoupling*  
 - **Total energy demand declined by 36%**, from 8.5M to 5.9M TJ, even as GDP grew.  
 - **Renewables share rose from 1% to 16.8%**, led by offshore wind.  
 - **Fossil fuels now account for 75.7%** of total energy, but in **absolute terms**, fossil use has fallen dramatically.  
 - The UK achieved one of the rarest global outcomes: **economic growth with falling total energy demand**.
 
-### 🇨🇦 Canada — *The Clean Energy Add-On*  
+### 🇨🇦 Canada - *The Clean Energy Add-On*  
 - **Total energy demand grew by 16%**, reaching 12.4M TJ.  
 - **Renewables share increased to 34.2%**, mostly from hydro and new wind/solar capacity.  
 - **Fossil fuel share (76.2%)** remained almost unchanged, meaning clean energy was **added** rather than **substituted**.  
@@ -70,7 +70,7 @@ The dataset is based on the **IEA Total Energy Supply** records, covering all ma
 - The **UK** demonstrates a model of **efficiency-led decarbonization**, reducing both energy use and fossil dependence.  
 - **Canada** represents a **growth-based model**, adding renewables without reducing fossil fuel use.  
 - **Hydropower** gives Canada a natural renewable advantage, while the UK’s strength lies in **offshore wind innovation**.  
-- The analysis highlights how **decarbonizing electricity** differs from **decarbonizing total energy** — Canada’s fossil total rose even as renewables expanded.
+- The analysis highlights how **decarbonizing electricity** differs from **decarbonizing total energy** - Canada’s fossil total rose even as renewables expanded.
 
 ---
 
@@ -141,7 +141,7 @@ The dataset is based on the **IEA Total Energy Supply** records, covering all ma
 
 ## Key Takeaway  
 
-> Geography and natural resources don’t just influence climate strategy — they define it.  
+> Geography and natural resources don’t just influence climate strategy - they define it.  
 >
 > The UK proves **efficiency-driven decarbonization** is possible.  
 > Canada shows that **abundance of renewables** doesn’t automatically mean less fossil fuel.  
