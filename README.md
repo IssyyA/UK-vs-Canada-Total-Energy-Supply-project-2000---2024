@@ -29,10 +29,11 @@ The dataset is based on the **IEA Total Energy Supply** records, covering all ma
 
 ### Tables
 * Combined Energy Supply
-| Field | Description |
-|-------|--------------|
-| Country | United Kingdom, Canada |
-| Year | 2000–2024 |
+
+| Field         | Description                                   |
+|---------------|-----------------------------------------------|
+| Country       | United Kingdom, Canada                        |
+| Year          | 2000–2024                                     |
 | Energy Source | Coal, Oil, Natural Gas, Nuclear, Hydro, Biofuels, Solar/Wind, etc. |
 | Energy Supply (TJ) | Total production by source (terajoules) |
 * DateTable: A standard date dimension table used for time-based filtering and analysis, including Date and Year
