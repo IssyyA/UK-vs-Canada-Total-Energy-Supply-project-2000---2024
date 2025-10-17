@@ -5,7 +5,8 @@ This project analyzes the **total energy supply** of the **United Kingdom** and 
 
 Unlike studies focused solely on electricity generation, this analysis considers the **entire energy system** — including transport, heating, and industrial energy use. The goal is to understand how both countries’ total energy demand, fossil fuel dependency, and renewable adoption have evolved over time.
 
-The Power BI dashboard visualizes the data, allowing users to explore key metrics such as total production, fossil fuel share, and renewable energy share across both nations.
+The Dataset used to clean, group, and analyze the data can be found[here](https://1drv.ms/f/c/9456734e419f9736/EvYmzbazDT9Nk6G-11IlQYsB35kcVCT2bhbm5OKBsH7ulA?e=iVHt3s)
+The Power BI dashboard visualizes the data, allowing users to explore key metrics such as total production, fossil fuel share, renewable energy share and energy mix across both nations. The dashboard is available [here](https://app.powerbi.com/view?r=eyJrIjoiYjc3N2E2ODctOGE2Ni00N2E0LWFlNTItZTkwOWI5M2Y4N2NiIiwidCI6ImMwM2MxNjIyLTBmYmEtNDQwYi05YWYxLWM4MzhkY2YxZTM2NyJ9)
 
 ---
 
