@@ -25,19 +25,7 @@ The dashboard provides an interactive side-by-side view of the UK and Canada, wi
 ---
 
 ## Dataset Description  
-
-| Field | Description |
-|-------|--------------|
-| Country | United Kingdom, Canada |
-| Year | 2000–2024 |
-| Energy Source | Coal, Oil, Natural Gas, Nuclear, Hydro, Biofuels, Solar/Wind, etc. |
-| Energy Supply (TJ) | Total production by source (terajoules) |
-| Fossil Fuel Share (%) | Combined share of coal, oil, and gas |
-| Renewables Share (%) | Combined share of hydro, solar, wind, and biofuels |
-
-The dataset is based on the **IEA Total Energy Supply** records, covering all major energy categories and sources over a 25-year period.
-## Dataset Description
-The data model comprises two tables capturing Combined Energy Supply and a Date Table
+The dataset is based on the **IEA Total Energy Supply** records, covering all major energy categories and sources over a 25-year period. The data model comprises two tables capturing Combined Energy Supply and a Date Table
 
 ### Tables
 *Combined Energy Supply
