@@ -43,7 +43,7 @@ The dataset is based on the **IEA Total Energy Supply** records, covering all ma
 * Fossil Fuel(%) : Combined sum of coal, oil, and gas supply in percentage
 * Renewables : Combined sum of hydro, solar, wind, and biofuels supply
 * Fossil Fuel (%) : Combined sum of hydro, solar, wind, and biofuels supply in percentage
-![image](https://github.com/IssyyA/Healthcare-Analysis/blob/main/Screenshot%202025-08-25%20155919.png)
+![image](https://github.com/IssyyA/UK-vs-Canada-Total-Energy-Supply-project-2000---2024/blob/main/UK%20VS%20CANADA%20ENERGY%20ANALYSIS/Screenshot%202025-10-17%20120136.png)
 
 
 ---
@@ -103,7 +103,7 @@ The dataset is based on the **IEA Total Energy Supply** records, covering all ma
    - Target further fossil reduction in heating and transport sectors.  
 
 2. **For Canada:**  
-   - Implement stronger policies to cap fossil output growth.  
+   - Encourage a gradual transition through incentives for cleaner technologies rather than strict fossil output caps.  
    - Use hydro capacity for hydrogen production and export decarbonization.  
 
 3. **For Both Nations:**  
@@ -126,8 +126,7 @@ The dataset is based on the **IEA Total Energy Supply** records, covering all ma
 
 | UK vs Canada Energy Analysis | |
 |-------------------------------|---------------------------|
-| ![Dashboard 1](./images/uk-vs-canada-1.png) | ![Dashboard 2](./images/uk-vs-canada-2.png) |
-| ![Dashboard 3](./images/uk-vs-canada-3.png) | ![Dashboard 4](./images/uk-vs-canada-4.png) |
+| ![Dashboard 1](https://github.com/IssyyA/UK-vs-Canada-Total-Energy-Supply-project-2000---2024/blob/main/UK%20VS%20CANADA%20ENERGY%20ANALYSIS/Screenshot%202025-10-17%20115032.png) | ![Dashboard 2](https://github.com/IssyyA/UK-vs-Canada-Total-Energy-Supply-project-2000---2024/blob/main/UK%20VS%20CANADA%20ENERGY%20ANALYSIS/Screenshot%202025-10-17%20114958.png) 
 
 ---
 
@@ -135,8 +134,7 @@ The dataset is based on the **IEA Total Energy Supply** records, covering all ma
 
 - **Tool:** Power BI  
 - **Data Source:** International Energy Agency (2000–2024)  
-- **Dashboard File:** `UK_vs_Canada_Energy_Analysis.pbix`  
-- **Supporting Data:** `/data/energy_supply_uk_canada.csv`
+- **Design:** -Figma
 
 ---
 
